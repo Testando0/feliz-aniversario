@@ -5,8 +5,8 @@ body {
 #canvas {
 	background-color: black;
 }
-.big-text {
-	font-size: 300%;
+.full-width-text {
+	font-size: 100vw;
 }
 .centered {
 	position: absolute;
